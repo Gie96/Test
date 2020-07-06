@@ -1,5 +1,8 @@
 # vuewebgl
 
+## 说明
+最近在学习超图的webgl，有相关的三维考核试题，以此项目为实验内容进行Vue + iClient-WebGL实战项目，提高开发能力。
+
 ## Project setup
 ```
 npm install
